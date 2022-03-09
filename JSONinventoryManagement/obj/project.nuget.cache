@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NbcFqcWBuJvzhO6Uy57aoxaBNCh9zbcIWN278lKGzpeEAplYDVD70Y8550uBYpOgJWNnsy+MkwWk86DSHlbuwg==",
+  "success": true,
+  "projectFilePath": "E:\\desktop\\newpgm\\JSONinventoryManagement\\JSONinventoryManagement\\JSONinventoryManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
